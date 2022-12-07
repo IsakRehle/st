@@ -5,12 +5,11 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/* static char *font = "mono:pixelsize=16:antialias=true:autohint=true"; */
-
+static char *font = "mono:pixelsize=14:antialias=true:autohint=true";
+/* static char *font = "DejaVu Sans Mono:style=Book:pixelsize=14:antialias=true:autohint=true"; */
 /* static char *font = "Inconsolata:style=Regular:pixelsize=16:antialias=true:autohint=true"; */
-/* static char *font = "DejaVu Sans Mono:weight=medium:pixelsize=15:antialias=true:autohint=true"; */
-static char *font = "DejaVu Sans Mono:style=Book:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
+
 
 /*
  * What program is execed by st depends of these precedence rules:
