@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# Heavily based on Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
@@ -69,5 +69,5 @@ Note that when you run `wal`, it will negate the transparency of existing window
 
 ## Contact
 
-- Isak Rehle <isak@rehle.xyz>
-- [https://rehle.xyz](https://rehle.xyz)
+- [Isak Rehle](mailto:isak@rehle.xyz>)
+- [rehle.xyz](https://rehle.xyz)
